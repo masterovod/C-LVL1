@@ -1,0 +1,7 @@
+C:\Users\Vadim\source\repos\Lesson2\Exercise1\bin\Debug\Exercise1.exe.config
+C:\Users\Vadim\source\repos\Lesson2\Exercise1\bin\Debug\Exercise1.exe
+C:\Users\Vadim\source\repos\Lesson2\Exercise1\bin\Debug\Exercise1.pdb
+C:\Users\Vadim\source\repos\Lesson2\Exercise1\obj\Debug\Exercise1.csprojAssemblyReference.cache
+C:\Users\Vadim\source\repos\Lesson2\Exercise1\obj\Debug\Exercise1.csproj.CoreCompileInputs.cache
+C:\Users\Vadim\source\repos\Lesson2\Exercise1\obj\Debug\Exercise1.exe
+C:\Users\Vadim\source\repos\Lesson2\Exercise1\obj\Debug\Exercise1.pdb
